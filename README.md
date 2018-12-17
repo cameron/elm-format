@@ -68,7 +68,7 @@ Find your editor in the table below.  The recommended plugin for each editor is 
   <tr>
     <td rowspan=2><a href="https://atom.io/">Atom</a></td>
     <td>:trophy: <a href="https://atom.io/packages/elm-format">atom-elm-format</a></td>
-    <td>:white_check_mark: <a href="#atom-elm-format-installation">2 steps</a></td>
+    <td>:relieved: <a href="#atom-elm-format-installation">2 steps</a></td>
     <td>:white_check_mark:</td>
     <td>:white_check_mark:</td>
     <td>:white_check_mark:</td>
@@ -77,7 +77,7 @@ Find your editor in the table below.  The recommended plugin for each editor is 
   <tr>
     <!-- Atom -->
     <td><a href="https://atom.io/packages/atom-beautify">atom-beautify</a></td>
-    <td>:warning: <a href="#atom-beautify-installation">3 steps</a></td>
+    <td>:confused: <a href="#atom-beautify-installation">3 steps</a></td>
     <td>:white_check_mark:</td>
     <td>:warning: requires configuration</td>
     <td>:white_check_mark:</td>
@@ -86,7 +86,7 @@ Find your editor in the table below.  The recommended plugin for each editor is 
   <tr>
     <td rowspan=1><a href="http://lighttable.com/">Light Table</a></td>
     <td>:trophy: <a href="https://github.com/rundis/elm-light">elm-light</a></td>
-    <td>:warning: <a href="#elm-light-installation">3 steps</a></td>
+    <td>:confused: <a href="#elm-light-installation">3 steps</a></td>
     <td>:white_check_mark:</td>
     <td>:warning: requires configuration</td>
     <td>:white_check_mark:</td>
@@ -95,7 +95,7 @@ Find your editor in the table below.  The recommended plugin for each editor is 
   <tr>
     <td rowspan=1>Vim</td>
     <td>:trophy: <a href="https://github.com/ElmCast/elm-vim">elm-vim</a></td>
-    <td>:x: <a href="#elm-vim-installation">6 steps</a></td>
+    <td>:disappointed: <a href="#elm-vim-installation">6 steps</a></td>
     <td>:white_check_mark:</td>
     <td>⚠️ requires configuration</td>
     <td>:white_check_mark:</td>
@@ -104,7 +104,7 @@ Find your editor in the table below.  The recommended plugin for each editor is 
   <tr>
     <td rowspan=1>Emacs</td>
     <td>:trophy: <a href="https://github.com/jcollard/elm-mode">elm-mode</a></td>
-    <td>:x: <a href="#elm-mode-installation">4 steps</a></td>
+    <td>:unamused: <a href="#elm-mode-installation">4 steps</a></td>
     <td>:white_check_mark:</td>
     <td>:warning: requires configuration</td>
     <td>:white_check_mark:</td>
@@ -113,7 +113,7 @@ Find your editor in the table below.  The recommended plugin for each editor is 
   <tr>
     <td rowspan=1>Visual Studio Code</td>
     <td>:trophy: <a href="https://marketplace.visualstudio.com/items?itemName=sbrink.elm">Elm Language Support</a></td>
-    <td>:warning: <a href="#visual-studio-code-installation">3 steps</a></td>
+    <td>:confused: <a href="#visual-studio-code-installation">3 steps</a></td>
     <td>:white_check_mark:</td>
     <td>:warning: requires configuration</td>
     <td>❔ TBD</td>
@@ -123,7 +123,7 @@ Find your editor in the table below.  The recommended plugin for each editor is 
   <tr>
     <td rowspan=1>Sublime Text</td>
     <td>:trophy: <a href="https://packagecontrol.io/packages/Elm%20Language%20Support">Elm Language Support</a></td>
-    <td>:white_check_mark: <a href="#sublime-text-installation">2 steps</a></td>
+    <td>:relieved: <a href="#sublime-text-installation">2 steps</a></td>
     <td>❔ TBD</td>
     <td>:white_check_mark:</td>
     <td>❔ TBD</td>
@@ -132,7 +132,7 @@ Find your editor in the table below.  The recommended plugin for each editor is 
   <tr>
     <td rowspan=1>JetBrains (WebStorm, etc)</td>
     <td>:trophy: <a href="https://durkiewicz.github.io/elm-plugin/">Elm Language Plugin</a></td>
-    <td>:warning: <a href="#jetbrains-installation">4 steps</a></td>
+    <td>:unamused: <a href="#jetbrains-installation">4 steps</a></td>
     <td>❔ TBD</td>
     <td>:white_check_mark:</td>
     <td>❔ TBD</td>
@@ -141,7 +141,7 @@ Find your editor in the table below.  The recommended plugin for each editor is 
   <tr>
     <td rowspan=1>TextMate</td>
     <td>:trophy: <a href="https://github.com/cmason/Elm.tmBundle">Elm.tmbundle</a></td>
-    <td>:white_check_mark: <a href="https://github.com/cmason/Elm.tmBundle#installation">2 steps</a></td>
+    <td>:relieved: <a href="https://github.com/cmason/Elm.tmBundle#installation">2 steps</a></td>
     <td>❔ TBD</td>
     <td>❔ TBD</td>
     <td>❔ TBD</td>
